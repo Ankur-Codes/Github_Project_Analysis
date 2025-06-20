@@ -130,15 +130,6 @@ It shows how a data analyst can think like a product analyst—by asking what’
 
 ---
 
-## 🎯 Key Takeaways for Interviews
-
-* You’ve explored a real-world dataset with thousands of records
-* You’ve built something useful—not just analysis, but **actionable suggestions**
-* You’ve shown product thinking (topic gaps, segmentation, usage insights)
-* You’ve layered basic NLP planning to expand the tool’s capability
-
----
-
 ## 👤 Creator
 
 Built by a data-analyst-in-progress passionate about combining data exploration, product thinking, and recommendation logic to deliver practical tools that actually help people discover new ideas.
